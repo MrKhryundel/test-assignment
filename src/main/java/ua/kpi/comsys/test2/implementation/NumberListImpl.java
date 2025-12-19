@@ -20,11 +20,6 @@ import ua.kpi.comsys.test2.NumberList;
 /**
  * Custom implementation of NumberList interface.
  *
- * Represents a number in a specific base (depends on record book number mod 5),
- * where each list element is one digit (Byte) in that base.
- *
- * Storage is a custom doubly-linked list (no standard collections for storage).
- *
  * Author: Zahvatkin Daniil, IO-36 №6
  * Variant: 4126
  * Тип списку: Лінійний двонаправлений
